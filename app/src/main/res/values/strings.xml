@@ -1,0 +1,18 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-5084661129059279/2251084974</string>
+    <string name="app_name">Brain Card</string>
+    <string name="moves_string1">MOVES</string>
+    <string name="createdby">Created by markef</string>
+    <string name="lvl1">LEVEL 1</string>
+    <string name="lvl2">LEVEL 2</string>
+    <string name="lvl3">LEVEL 3</string>
+    <string name="lvl4">LEVEL 4</string>
+    <string name="over1">LEVEL 1 : FAILED!</string>
+    <string name="over2">LEVEL 2 : FAILED!</string>
+    <string name="over3">LEVEL 3 : FAILED!</string>
+    <string name="over4">LEVEL 4 : FAILED!</string>
+    <string name="win1">LEVEL 1 : SUCCESS!</string>
+    <string name="win2">LEVEL 2 : SUCCESS!</string>
+    <string name="win3">LEVEL 3 : SUCCESS!</string>
+    <string name="win4">LEVEL 4 : SUCCESS!</string>
+</resources>

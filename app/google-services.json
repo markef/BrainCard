@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083695948268",
+    "firebase_url": "https://brain-card-6710c.firebaseio.com",
+    "project_id": "brain-card-6710c",
+    "storage_bucket": "brain-card-6710c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083695948268:android:dfdb7a5bff7cc3ee4120c9",
+        "android_client_info": {
+          "package_name": "com.markef.braincard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083695948268-h528i32m1a329ikcosp9ejrdh3dmr4jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.markef.braincard",
+            "certificate_hash": "56a499577a606a1c5b8990bc69c4966c73934c65"
+          }
+        },
+        {
+          "client_id": "1083695948268-btj636le4s1o8o8cqq8d9snfccib917m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDny22MGYKsno1Rxq0fHZ1OGelAdwLMJXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083695948268-btj636le4s1o8o8cqq8d9snfccib917m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
